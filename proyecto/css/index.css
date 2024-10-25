@@ -1,0 +1,54 @@
+body {
+    margin: 0; /* Elimina el margen del body */
+    padding: 0; /* Elimina el padding del body */
+}
+
+.menuContenedor {
+    display: flex;
+    justify-content: flex-end; /* Alinea el contenido a la derecha */
+    align-items: center; /* Alinea verticalmente los iconos al centro */
+    margin-top: 2%;
+    gap: 0%;
+    margin-right: 6%;
+
+}
+
+#logoInstagram {
+    width: 30px; /* Ajusta el tamaño de Instagram */
+}
+
+#logoWhats {
+    width: 30px; /* Ajusta el tamaño de WhatsApp */
+}
+
+.contenedorWhats{
+    margin-left: 8px;
+}
+
+#colorLetraAzul{
+    color: #1b58b3;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.contenedorTitulo{
+    margin-top: 2%;
+}
+
+.contenedorLogos{
+    margin-top: 2%;
+    margin-left: 14%;
+}
+
+.table{
+    margin-top: 2%;
+    margin-left: 9%;
+    width: 80%;
+}
+
+.colorTituloCampo{
+    color: white;
+}
